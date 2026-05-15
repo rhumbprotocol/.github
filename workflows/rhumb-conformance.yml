@@ -1,4 +1,4 @@
-name: Rhumb™ Conformance
+name: Rhumb Workflow Protocol™ Conformance
 
 on:
   pull_request:
