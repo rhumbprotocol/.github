@@ -2,7 +2,13 @@
   <img src="../assets/rhumbprotocol-org-banner-2400x900.png" alt="Rhumb Workflow Protocol™ organization banner" width="100%">
 </p>
 
-# Rhumb Workflow Protocol™;
+# Rhumb Workflow Protocol™
+
+## The main repo will be available in a day or two.
+
+>Some links may appear broken because they are pointing to private repositories.
+
+
 
 **Open workflow protocol for AI-assisted delivery.**
 
